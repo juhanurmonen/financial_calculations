@@ -1,2 +1,4 @@
-# financial_calculations
-Repository for articles concerning calculations about financial and economical issues. 
+# Rahoituslaskentaa
+<ul>Microsoft Excelin ja Pythonin perusrahoitusfunktioiden kertausta
+<li>Excel-harjoituksia</li>
+</ul>
