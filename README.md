@@ -1,4 +1,4 @@
-# Rahoituslaskentaa
-<ul>Microsoft Excelin ja Pythonin perusrahoitusfunktioiden kertausta
-<li>Excel-harjoituksia</li>
-</ul>
+## Rahoituslaskentaa
+* Microsoft Excelin ja Pythonin perusrahoitusfunktioiden kertausta
+   * Excel-harjoituksia
+
