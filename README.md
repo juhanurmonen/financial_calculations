@@ -1,7 +1,7 @@
 ## Rahoituslaskentaa
 
-* Microsoft Excelin ja Pythonin perusrahoitusfunktioiden kertausta
-   * Excel-harjoituksia
+* __Microsoft Excelin ja Pythonin perusrahoitusfunktioiden kertausta__
+   * <a href="https://edujuhanurmonen.github.io/index.html#liiketalouden-matematiikka">Excel-laskentaesimerkkejä</a>
 * __Investointilaskelmat ja herkkyysjakaumat__
     * <a href="https://www.slideshare.net/slideshow/investointilaskelmat-123566310/123566310">Investointilaskelmat (SlideShare)</a>
     * <a href="https://nbviewer.org/github/juhanurmonen/financial-calculations/blob/main/investoinnit.ipynb">Investointilaskelmat Pythonilla</a>
