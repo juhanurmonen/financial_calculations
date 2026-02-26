@@ -11,6 +11,9 @@
     * <a href="https://haagahelia-my.sharepoint.com/personal/nurju_haaga-helia_fi/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fnurju%5Fhaaga%2Dhelia%5Ffi%2FDocuments%2FHH%2Dkurssit%2FRahoituslaskennan%5Fmenetelmia%2FKurssimateriaali%2Ftuoton%5Fodotusarvo%5Friski%2Epdf&parent=%2Fpersonal%2Fnurju%5Fhaaga%2Dhelia%5Ffi%2FDocuments%2FHH%2Dkurssit%2FRahoituslaskennan%5Fmenetelmia%2FKurssimateriaali&ga=1">Tuoton odotusarvo ja riski</a> (pdf)
     * <a href="https://video.haaga-helia.fi/media/2026_0210_Rahoituslaskenta_Odotettu_tuotto_riski/0_j1wo05lr">Sijoituksen ja portfolion tuoton ja riskin laskeminen</a> (mp4, 54 min)
 * Regressio ja normaalijakauma riskin analysoinnissa
+    * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQCWKUpneUH3QaYVEXRczw8NAcDcpLVCZv0PoETc2gHoE5o?e=vp6yCB">Regressio ja normaalijakauma</a> (pdf)
+    * <a href="https://video.haaga-helia.fi/media/Tuotto+ja+volatiliteetti+aikasarjasta/0_vapupr9i">Tuotto ja volatiliteetti aikasarjasta</a> (mp4, 59 min)
+    * <a href="https://video.haaga-helia.fi/media/Systemaattinen+riski%2C+beta+ja+regressio/0_v4jonapk">Systemaattinen riski, beta ja regressio</a> (mp4, 37 min)
 * Tuotto- ja riskiluvut
 * Korkosijoitusten hinnoittelu ja korkoriski
 * Johdannaisten perusteita ja optioiden hinnoittelua
