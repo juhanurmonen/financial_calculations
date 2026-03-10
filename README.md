@@ -18,7 +18,7 @@
     * <a href="https://video.haaga-helia.fi/media/Ajantasaisen+kurssihistorian+hakeminen+Yahoo+Financesta/0_yhzsi2li">Ajantasaisen kurssihistorian hakeminen Yahoo Financesta</a> (mp4, 42 min)
 * Tuotto- ja riskiluvut
     * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBTwKWx4bTkRa0lq0UVRduGAay9D4OaDLWHB6UMmvblv6w?e=WeXuR9">Huomioita tuoton ja riskin laskemisesta</a> (pdf)
-    * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBnTX6zO2JuR5_fD2rRVubyAX6RgEmKybM2vg2FAzT8a_Y?e=W52y9d>Jatkuva korko</a> (pdf)
+    * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBnTX6zO2JuR5_fD2rRVubyAX6RgEmKybM2vg2FAzT8a_Y?e=W52y9d">Jatkuva korko</a> (pdf)
     * <a href="https://video.haaga-helia.fi/media/Salkun+tuotto-+ja+riskilukujen+laskentaa/0_xbipna8p">Tuotto- ja riskilukujen laskentaa</a> (mp4, 1h 3 min)
 * Korkosijoitusten hinnoittelu ja korkoriski
 * Johdannaisten perusteita ja optioiden hinnoittelua
