@@ -21,6 +21,8 @@
     * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBnTX6zO2JuR5_fD2rRVubyAX6RgEmKybM2vg2FAzT8a_Y?e=W52y9d">Jatkuva korko</a> (pdf)
     * <a href="https://video.haaga-helia.fi/media/Salkun+tuotto-+ja+riskilukujen+laskentaa/0_xbipna8p">Tuotto- ja riskilukujen laskentaa</a> (mp4, 1h 3 min)
 * Korkosijoitusten hinnoittelu ja korkoriski
+    * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBEbn-896-HRKNW4V2izGFiAfmzdEr7cQFHBohh-9k2lqw?e=haQGyW">Muutama huomio hinnoittelusta ja korkoriskistä</a>
+    * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmia%3A+Korkosijoitusten+hinnoittelu/0_32gvamnu">Korkosijoitusten hinnoittelu</a> (mp4, 1h 28 min)
 * Johdannaisten perusteita ja optioiden hinnoittelua
 * Tutustumista Python-ohjelmointiin ja osakekurssien aikasarja-analyysiin
 * Teknistä analyysia
