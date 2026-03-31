@@ -23,6 +23,7 @@
 * Korkosijoitusten hinnoittelu ja korkoriski
     * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBEbn-896-HRKNW4V2izGFiAfmzdEr7cQFHBohh-9k2lqw?e=haQGyW">Muutama huomio hinnoittelusta ja korkoriskistä</a> (pdf)
     * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmia%3A+Korkosijoitusten+hinnoittelu/0_32gvamnu">Korkosijoitusten hinnoittelu</a> (mp4, 1h 28 min)
+    * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmi%C3%A4%3A+Korkosijoitusten+riski/0_6u554aet">Korkosijoitusten korkoriski</a> (mp4, 1h 22 min)
 * Johdannaisten perusteita ja optioiden hinnoittelua
 * Tutustumista Python-ohjelmointiin ja osakekurssien aikasarja-analyysiin
 * Teknistä analyysia
