@@ -26,6 +26,7 @@
     * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmi%C3%A4%3A+Korkosijoitusten+riski/0_6u554aet">Korkosijoitusten korkoriski</a> (mp4, 1h 22 min)
 * Johdannaisten perusteita ja optioiden hinnoittelua
     * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQApAgIxaqxrT7hxnwEBFOmfAS-P5KhBirSEN8rZgKMTL9w?e=8u5ma9">Muutama huomio johdannaisten perusteista</a> (pdf)
+    * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmia%3A+Johdannaisten+perusteet/0_so78kvsd">Johdannaisten perusteista</a> (mp4, 1h 38 min)
     * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBOifSu34l6R6ObaT7Bbjm2Ae11bTa-0uA81Ko5JLOK9Vo?e=zXs9Fi">Muutama huomio optioiden hinnoittelusta</a> (pdf)
 * Tutustumista Python-ohjelmointiin ja osakekurssien aikasarja-analyysiin
 * Teknistä analyysia
