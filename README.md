@@ -31,3 +31,4 @@
     * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmi%C3%A4%3A+Optioiden+hinnoittelu/0_x8yjwxdq">Optioiden hinnoittelusta</a> (mp4, 1 h 32 min)
 * Tutustumista Python-ohjelmointiin ja osakekurssien aikasarja-analyysiin
 * Teknistä analyysia
+    * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBllU6OeijiRK5T5YRu6-0dAXph0EDTDoJpv89h27UXy8E?e=gTMFde">Teknistä analyysia</a> (pdf) 
