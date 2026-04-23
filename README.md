@@ -30,6 +30,7 @@
     * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBOifSu34l6R6ObaT7Bbjm2Ae11bTa-0uA81Ko5JLOK9Vo?e=zXs9Fi">Muutama huomio optioiden hinnoittelusta</a> (pdf)
     * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmi%C3%A4%3A+Optioiden+hinnoittelu/0_x8yjwxdq">Optioiden hinnoittelusta</a> (mp4, 1 h 32 min)
 * Tutustumista Python-ohjelmointiin ja osakekurssien aikasarja-analyysiin
+    * <a href="https://colab.research.google.com/drive/1Xd6ssgMCCr_E4jFqM3LX5VRksxTUDRKI?usp=sharing&pli=1">Aikasarjojen kuvailua ja analysointia Pythonilla</a> (Colab-muistio)
     * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmi%C3%A4%3A+Tutustuminen+Pythoniin+rahoituslaskennassa/0_zu40i2j7">Tutustuminen Pythoniin rahoituslaskennassa</a> (mp4, 1h 49 min)
 * Teknistä analyysia
     * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBllU6OeijiRK5T5YRu6-0dAXph0EDTDoJpv89h27UXy8E?e=gTMFde">Teknistä analyysia</a> (pdf) 
