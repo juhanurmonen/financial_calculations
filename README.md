@@ -33,4 +33,5 @@
     * <a href="https://colab.research.google.com/drive/1Xd6ssgMCCr_E4jFqM3LX5VRksxTUDRKI?usp=sharing&pli=1">Aikasarjojen kuvailua ja analysointia Pythonilla</a> (Colab-muistio)
     * <a href="https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmi%C3%A4%3A+Tutustuminen+Pythoniin+rahoituslaskennassa/0_zu40i2j7">Tutustuminen Pythoniin rahoituslaskennassa</a> (mp4, 1h 49 min)
 * Teknistä analyysia
-    * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBllU6OeijiRK5T5YRu6-0dAXph0EDTDoJpv89h27UXy8E?e=gTMFde">Teknistä analyysia</a> (pdf) 
+    * <a href="https://haagahelia-my.sharepoint.com/:b:/g/personal/nurju_haaga-helia_fi/IQBllU6OeijiRK5T5YRu6-0dAXph0EDTDoJpv89h27UXy8E?e=gTMFde">Teknistä analyysia</a> (pdf)
+    * <a href = "https://video.haaga-helia.fi/media/Rahoituslaskennan+menetelmia%3A+Teknist%C3%A4+analyysia/0_x5a99j4y">Teknistä analyysia</a> (mp4, 1 h 21 min)
